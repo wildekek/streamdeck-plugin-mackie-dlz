@@ -1,12 +1,12 @@
 {
 	"SDKVersion": 2,
-	"Author": "Elgato Systems",
+	"Author": "Willem Vooijs",
 	"CodePath": "app.html",
-	"Description": "Example description",
-	"Name": "Stream Deck Template",
+	"Description": "Control your Mackie DLZ Creator",
+	"Name": "Mackie DLZ Creator",
 	"Icon": "actions/template/assets/action",
-	"URL": "https://www.elgato.com/en/gaming/stream-deck",
-	"Version": "1.0.2",
+	"URL": "https://github.com/wildekek/streamdeck-plugin-mackie-dlz",
+	"Version": "0.0.1",
 	"Software": {
 		"MinimumVersion": "5.0"
 	},
@@ -20,7 +20,7 @@
 			"MinimumVersion": "10"
 		}
 	],
-	"Category": "Template Plugin",
+	"Category": "Mackie DLZ Creator Plugin",
 	"CategoryIcon": "actions/template/assets/actionimage",
 	"Actions": [
 		{

@@ -1,7 +1,7 @@
 /// <reference path="libs/js/action.js" />
 /// <reference path="libs/js/stream-deck.js" />
 
-const myAction = new Action('com.elgato.template.action');
+const myAction = new Action('eu.vooijs.mackiedlz.action');
 
 /**
  * The first event fired when Stream Deck starts
